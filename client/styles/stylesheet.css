@@ -1,0 +1,66 @@
+/*------------------
+IMAGES
+------------------*/
+
+.author {
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+  border-radius: 10px;
+}
+
+.app-title {
+  font-family: 'Palatino', serif;
+  font-weight: 300;
+}
+
+.bio-container {
+  margin-bottom: 32px;
+}
+
+.heading {
+  text-align: center;
+  font-family: 'Palatino', serif;
+  font-weight: 100;
+  font-size: 48px;
+  margin: 48px;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.links {
+  margin-bottom: 64px;
+}
+
+.header {
+  background-color: #BF5700;
+  margin-bottom: 32px;
+}
+
+.main-body {
+  background-color: white;
+}
+
+.b-head {
+  font-family: 'Palatino', serif;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+.c-head {
+  font-family: 'Palatino', serif;
+  text-align: center;
+  margin: 10px;
+}
+
+.app-desc {
+  margin-top: 18px;
+  width: 82%;
+  text-align: justify;
+}
+
+.app-photo {
+  max-width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+}

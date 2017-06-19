@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "A website showcasing my development skills and experience ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielRicaud/portfolio-site.git"
+  },
+  "author": "Daniel Ricaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielRicaud/portfolio-site/issues"
+  },
+  "homepage": "https://github.com/danielRicaud/portfolio-site#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
