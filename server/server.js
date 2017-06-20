@@ -17,6 +17,7 @@ app.use((req, res, next) => {
   next(err);
 });
 
-app.listen(4444, () => {
-  console.log('Server is listening on port 4444.');
+const PORT = process.env.PORT || 4444;
+app.listen(PORT, () => {
+  console.log(`Server is listening on port ${PORT}.`);
 })
