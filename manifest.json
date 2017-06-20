@@ -1,0 +1,4 @@
+{
+  "command": "node portfolio-site/server/server.js",
+  "mode": "rolling"
+}
